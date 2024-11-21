@@ -1,0 +1,65 @@
+
+*{
+    max-width: 500px;
+        margin:auto;
+        padding: 0%;
+        text-align: center;
+        background-color: #d5dbdb;
+        color:rgb(97, 100, 103);
+        margin-top: 5px;
+    }
+    h1{    
+        margin-top: 50px;
+        color: rgb(238, 72, 72);
+        text-shadow: 1px 1px rgb(155, 140, 140);
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+    }
+    .error{
+    
+        color:rgb(255, 255, 255);
+        font-weight: bold;
+    }
+    
+    #superhero{
+        background-color:rgb(184, 186, 186);
+        text-align: left;
+        
+       padding:100px;
+      margin-top: 50px;
+      color:white;
+      border-radius: 5px;
+    }
+    #superhero p{
+    background-color:rgb(184, 186, 186);}
+    
+    img{
+        margin-top:20px;
+        width:75%;
+        height:75%;
+        border-radius:7px
+    }
+    #image{
+        background-color:rgb(184, 186, 186);
+       
+    }
+    
+    button{
+        background-color: rgb(241, 118, 102);
+        border-radius: 5px;
+        border:none;
+        color: azure;
+        padding:5px;
+        margin-left: 10px;
+    }
+    
+    input{
+        border: solid;
+        text-align: left;
+        padding-left: 7px;
+    }
+    button:hover{
+        cursor: pointer;
+        background-color: rgb(240, 142, 130);
+    }
