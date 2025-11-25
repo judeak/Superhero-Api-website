@@ -29,10 +29,10 @@ The project focuses on HTML, CSS, JavaScript, and API integration.
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure<br>
 
-Superhero-Api-Website/
-├── index.html        # Main webpage
-├── char.js           # JavaScript logic & API requests
-├── style.css         # Styling
-└── README.md         # Documentation
+Superhero-Api-Website/<br>
+├── index.html        # Main webpage<br>
+├── char.js           # JavaScript logic & API requests<br>
+├── style.css         # Styling<br>
+└── README.md         # Documentation<br>
