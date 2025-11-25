@@ -13,7 +13,7 @@ The project focuses on HTML, CSS, JavaScript, and API integration.
 ## ✨ Features
 
 - 🔎 Search for superheroes by name  
-- 📄 Display hero information (full name,publisher, race, affiliation, work، image)   
+- 📄 Display hero information (full name, publisher, race, affiliation, work، image)   
 - ⚡ Fetches real-time data using JavaScript  
 - 🎨 Clean and simple UI  
 - 📱 Responsive design
