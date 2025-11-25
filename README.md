@@ -1,2 +1,38 @@
-# Superhero-Api-website
-An assignment for the web development course. The idea is to write any name from the superhero world and you'll get some information about them.
+# 🦸‍♀️ Superhero API Website  
+*A Web Development Course Assignment*
+---
+
+## 📖 Overview
+
+**Superhero API Website** is a simple and interactive web application created as part of a web development course assignment.  
+Users can enter the name of any superhero and retrieve detailed information about them through an external API.  
+The project focuses on HTML, CSS, JavaScript, and API integration.
+
+---
+
+## ✨ Features
+
+- 🔎 Search for superheroes by name  
+- 📄 Display hero information (image, biography, stats, etc.)  
+- ⚡ Fetches real-time data using JavaScript  
+- 🎨 Clean and simple UI  
+- 📱 Responsive design
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6)**  
+- **Superhero API**
+
+---
+
+## 📂 Project Structure
+
+Superhero-Api-Website/
+├── index.html        # Main webpage
+├── char.js           # JavaScript logic & API requests
+├── style.css         # Styling
+└── README.md         # Documentation
